@@ -1,1 +1,1 @@
-<img src="./public/bg.png" />
+<img src="" />
